@@ -1,6 +1,6 @@
 # my-project
 
-> A Vue.js project
+> 你画我猜  Vue2.0 + Vue-router 2 + websoket + node + ES6(实时画图，支持修改画笔大小颜色)
 
 ## Build Setup
 
